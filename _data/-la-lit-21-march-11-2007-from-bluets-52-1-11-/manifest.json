@@ -23,6 +23,14 @@
         "id": "https://bethanycayeradcliff.github.io/penn-sound-poetry/-la-lit-21-march-11-2007-from-bluets-52-1-11-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 71.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://bethanycayeradcliff.github.io/penn-sound-poetry/-la-lit-21-march-11-2007-from-bluets-52-1-11-/canvas-1/canvas/misc.json",
+            "label": "misc"
+          }
+        ],
         "items": [
           {
             "id": "https://bethanycayeradcliff.github.io/penn-sound-poetry/-la-lit-21-march-11-2007-from-bluets-52-1-11-/canvas-1/paintings",

@@ -1,0 +1,50 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://bethanycayeradcliff.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas/misc.json",
+  "type": "AnnotationPage",
+  "label": "misc",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas/misc-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "William Gass On Being Blue",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "6.561038"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas/misc-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Nelson mentions that this section of Bluets is an engagement with Gass's book",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "16.477153"
+        }
+      }
+    }
+  ]
+}

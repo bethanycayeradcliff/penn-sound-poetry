@@ -1,0 +1,92 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://bethanycayeradcliff.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas/topics.json",
+  "type": "AnnotationPage",
+  "label": "topics",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas/topics-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "blue",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "0.372786"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas/topics-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "color",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "0.372786"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas/topics-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "philosophy",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "5.591794"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas/topics-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "eyes",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "39.888130"
+        }
+      }
+    }
+  ]
+}

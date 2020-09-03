@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://bethanycayeradcliff.github.io/penn-sound-poetry/-la-lit-21-march-11-2007-from-bluets-52-1-11-/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ " LA-Lit #21, March 11, 2007 from Bluets 52. (1:11)" ] },
+    "homepage": [
+      {
+        "id": "https://writing.upenn.edu/pennsound/x/Nelson.php",
+        "type": "Text",
+        "label": { "en": [ "Home page for  LA-Lit #21, March 11, 2007 from Bluets 52. (1:11)" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://writing.upenn.edu/pennsound",
+        "type": "Agent",
+        "label": { "en": [ "Penn Sound" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://bethanycayeradcliff.github.io/penn-sound-poetry/-la-lit-21-march-11-2007-from-bluets-52-1-11-/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 71.0,
+        "items": [
+          {
+            "id": "https://bethanycayeradcliff.github.io/penn-sound-poetry/-la-lit-21-march-11-2007-from-bluets-52-1-11-/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://bethanycayeradcliff.github.io/penn-sound-poetry/-la-lit-21-march-11-2007-from-bluets-52-1-11-/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://media.sas.upenn.edu/pennsound/authors/Nelson/LA-Lit-Segmented/Nelson-Maggie_13_52_LA-Lit-21_3-11-07.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                  "duration": 71.0
+                },
+                "target": "https://bethanycayeradcliff.github.io/penn-sound-poetry/-la-lit-21-march-11-2007-from-bluets-52-1-11-/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 

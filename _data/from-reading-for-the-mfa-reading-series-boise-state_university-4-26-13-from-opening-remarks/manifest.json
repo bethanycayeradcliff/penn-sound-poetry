@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://kywark.github.io/penn-sound-poetry/from-reading-for-the-mfa-reading-series-boise-state_university-4-26-13-from-opening-remarks/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "from-Reading-for-the-MFA-Reading-Series-Boise-State_University-4/26/13-from-opening-remarks" ] },
+    "homepage": [
+      {
+        "id": "https://writing.upenn.edu/pennsound/x/Nelson.php",
+        "type": "Text",
+        "label": { "en": [ "Home page for from-Reading-for-the-MFA-Reading-Series-Boise-State_University-4/26/13-from-opening-remarks" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://www.upenn.edu/",
+        "type": "Agent",
+        "label": { "en": [ "University of Pennsylvania" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://kywark.github.io/penn-sound-poetry/from-reading-for-the-mfa-reading-series-boise-state_university-4-26-13-from-opening-remarks/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 104.0,
+        "items": [
+          {
+            "id": "https://kywark.github.io/penn-sound-poetry/from-reading-for-the-mfa-reading-series-boise-state_university-4-26-13-from-opening-remarks/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://kywark.github.io/penn-sound-poetry/from-reading-for-the-mfa-reading-series-boise-state_university-4-26-13-from-opening-remarks/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://media.sas.upenn.edu/pennsound/authors/Nelson/4-26-13/Nelson-Maggie_Opening-Remarks_MFA-Reading-Series_Boise-State-University_04-26-2013.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                  "duration": 104.0
+                },
+                "target": "https://kywark.github.io/penn-sound-poetry/from-reading-for-the-mfa-reading-series-boise-state_university-4-26-13-from-opening-remarks/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 

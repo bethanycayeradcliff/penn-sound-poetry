@@ -1,0 +1,554 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas/ephemeral.json",
+  "type": "AnnotationPage",
+  "label": "ephemeral",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas/ephemeral-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"tch\" sound",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1.823605,2.431474"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas/ephemeral-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "groan/fry sound",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3.917374,4.592783"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas/ephemeral-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "deep breath",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "7.969830,9.050485"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas/ephemeral-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "laugh",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "14.268022,14.977202"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas/ephemeral-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "deep breath",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "20.059657,20.566214"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas/ephemeral-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"tch\" sound/swallow",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "22.254737,22.710639"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas/ephemeral-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "deep breath",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "25.986374,26.560472"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas/ephemeral-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "laugh",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "28.704896,29.211453"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas/ephemeral-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"tch\" sound",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "29.542826,29.762334"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas/ephemeral-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "deep breath",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "29.726453,30.055715"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas/ephemeral-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"tch\" sound",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "30.479957,30.562272"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas/ephemeral-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"tch\" sound",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "33.911880,33.981532"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas/ephemeral-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "breath",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "34.806798,34.998867"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas/ephemeral-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "breath",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "37.580197,37.717390"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas/ephemeral-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "stutter",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "38.302041,39.030216"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas/ephemeral-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"tch\" sound",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "43.492139,43.547016"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas/ephemeral-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "breath",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "43.555459,43.840397"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas/ephemeral-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "breath",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "47.276542,47.540374"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas/ephemeral-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"tch\" sound",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "50.792892,50.889982"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas/ephemeral-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "breath",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "50.860433,51.058834"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas/ephemeral-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "breath",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "56.240490,56.390347"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas/ephemeral-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "breath",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "59.655529,59.799053"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas/ephemeral-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "tch sound, swallow?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "62.108109,62.371941"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas/ephemeral-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "breath",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "63.688989,63.950710"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas/ephemeral-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "breath",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "68.651137,68.847428"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas/ephemeral-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "hum/laugh",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "70.561279,70.630930"
+        }
+      }
+    }
+  ]
+}

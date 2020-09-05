@@ -1,0 +1,134 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://kywark.github.io/penn-sound-poetry/from-reading-for-the-mfa-reading-series-boise-state_university-4-26-13-from-opening-remarks/canvas-1/canvas/topics.json",
+  "type": "AnnotationPage",
+  "label": "topics",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/penn-sound-poetry/from-reading-for-the-mfa-reading-series-boise-state_university-4-26-13-from-opening-remarks/canvas-1/canvas/topics-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "microphone",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/penn-sound-poetry/from-reading-for-the-mfa-reading-series-boise-state_university-4-26-13-from-opening-remarks/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2.568460,3.921313"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/penn-sound-poetry/from-reading-for-the-mfa-reading-series-boise-state_university-4-26-13-from-opening-remarks/canvas-1/canvas/topics-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Boise",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/penn-sound-poetry/from-reading-for-the-mfa-reading-series-boise-state_university-4-26-13-from-opening-remarks/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3.921313,8.156332"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/penn-sound-poetry/from-reading-for-the-mfa-reading-series-boise-state_university-4-26-13-from-opening-remarks/canvas-1/canvas/topics-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "thank yous",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/penn-sound-poetry/from-reading-for-the-mfa-reading-series-boise-state_university-4-26-13-from-opening-remarks/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "8.156332,16.057779"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/penn-sound-poetry/from-reading-for-the-mfa-reading-series-boise-state_university-4-26-13-from-opening-remarks/canvas-1/canvas/topics-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "color of the universe",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/penn-sound-poetry/from-reading-for-the-mfa-reading-series-boise-state_university-4-26-13-from-opening-remarks/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "46.251893,49.624222"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/penn-sound-poetry/from-reading-for-the-mfa-reading-series-boise-state_university-4-26-13-from-opening-remarks/canvas-1/canvas/topics-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Bluelets content description",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/penn-sound-poetry/from-reading-for-the-mfa-reading-series-boise-state_university-4-26-13-from-opening-remarks/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "59.231440,100.483658"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/penn-sound-poetry/from-reading-for-the-mfa-reading-series-boise-state_university-4-26-13-from-opening-remarks/canvas-1/canvas/topics-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": null,
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/penn-sound-poetry/from-reading-for-the-mfa-reading-series-boise-state_university-4-26-13-from-opening-remarks/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": null
+        }
+      }
+    }
+  ]
+}

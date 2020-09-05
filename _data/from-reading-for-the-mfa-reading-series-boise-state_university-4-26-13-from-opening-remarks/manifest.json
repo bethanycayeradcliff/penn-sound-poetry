@@ -27,6 +27,12 @@
           
           {
             "type": "AnnotationPage",
+            "id": "https://kywark.github.io/penn-sound-poetry/from-reading-for-the-mfa-reading-series-boise-state_university-4-26-13-from-opening-remarks/canvas-1/canvas/works.json",
+            "label": "works"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://kywark.github.io/penn-sound-poetry/from-reading-for-the-mfa-reading-series-boise-state_university-4-26-13-from-opening-remarks/canvas-1/canvas/speaker.json",
             "label": "speaker"
           }

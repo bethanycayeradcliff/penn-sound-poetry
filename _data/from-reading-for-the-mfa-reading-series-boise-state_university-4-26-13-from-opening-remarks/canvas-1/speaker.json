@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://kywark.github.io/penn-sound-poetry/from-reading-for-the-mfa-reading-series-boise-state_university-4-26-13-from-opening-remarks/canvas-1/canvas/speaker.json",
+  "type": "AnnotationPage",
+  "label": "speaker",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/penn-sound-poetry/from-reading-for-the-mfa-reading-series-boise-state_university-4-26-13-from-opening-remarks/canvas-1/canvas/speaker-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Maggie Nelson",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/penn-sound-poetry/from-reading-for-the-mfa-reading-series-boise-state_university-4-26-13-from-opening-remarks/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "0.196066"
+        }
+      }
+    }
+  ]
+}

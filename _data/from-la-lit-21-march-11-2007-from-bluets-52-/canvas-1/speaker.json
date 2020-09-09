@@ -1,12 +1,12 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://bethanycayeradcliff.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas/speaker.json",
+  "id": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas/speaker.json",
   "type": "AnnotationPage",
   "label": "speaker",
   "items": [
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://bethanycayeradcliff.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas/speaker-annotation-0.json",
+      "id": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas/speaker-annotation-0.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -14,14 +14,35 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Maggie Nelson",
+        "value": "matthew timmons",
         "format": "text/plain"
       },
       "target": {
-        "source": "https://bethanycayeradcliff.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas",
+        "source": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas",
         "selector": {
-          "type": "PointSelector",
-          "t": "0.372786"
+          "type": "RangeSelector",
+          "t": "28.704896,29.211453"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas/speaker-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "unknown speaker",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/penn-sound-poetry/from-la-lit-21-march-11-2007-from-bluets-52-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "70.561279,70.630930"
         }
       }
     }
